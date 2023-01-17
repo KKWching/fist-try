@@ -30,3 +30,5 @@ print(sorted(result_dic))
 #     print(f"{name}'s favorite colors are:")
 #     for i in color:
 #         print(i)
+
+print()
