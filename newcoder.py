@@ -34,3 +34,5 @@ print(sorted(result_dic))
 print()
 
 print()
+
+print('bug sloved')
