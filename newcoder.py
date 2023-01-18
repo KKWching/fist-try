@@ -36,3 +36,4 @@ print()
 print()
 
 print('bug sloved')
+print('shop 100%')
