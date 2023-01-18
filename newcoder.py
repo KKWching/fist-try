@@ -35,4 +35,4 @@ print()
 
 print()
 
-print('shop')
+print('shop 100%')
